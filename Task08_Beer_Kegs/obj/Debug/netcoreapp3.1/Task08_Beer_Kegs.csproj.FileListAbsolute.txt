@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\02_Exercise\Task08_Beer_Kegs\bin\Debug\netcoreapp3.1\Task08_Beer_Kegs.exe
+C:\Users\Kiril\source\repos\02_Exercise\Task08_Beer_Kegs\bin\Debug\netcoreapp3.1\Task08_Beer_Kegs.deps.json
+C:\Users\Kiril\source\repos\02_Exercise\Task08_Beer_Kegs\bin\Debug\netcoreapp3.1\Task08_Beer_Kegs.runtimeconfig.json
+C:\Users\Kiril\source\repos\02_Exercise\Task08_Beer_Kegs\bin\Debug\netcoreapp3.1\Task08_Beer_Kegs.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\02_Exercise\Task08_Beer_Kegs\bin\Debug\netcoreapp3.1\Task08_Beer_Kegs.dll
+C:\Users\Kiril\source\repos\02_Exercise\Task08_Beer_Kegs\bin\Debug\netcoreapp3.1\Task08_Beer_Kegs.pdb
+C:\Users\Kiril\source\repos\02_Exercise\Task08_Beer_Kegs\obj\Debug\netcoreapp3.1\Task08_Beer_Kegs.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\02_Exercise\Task08_Beer_Kegs\obj\Debug\netcoreapp3.1\Task08_Beer_Kegs.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\02_Exercise\Task08_Beer_Kegs\obj\Debug\netcoreapp3.1\Task08_Beer_Kegs.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\02_Exercise\Task08_Beer_Kegs\obj\Debug\netcoreapp3.1\Task08_Beer_Kegs.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\02_Exercise\Task08_Beer_Kegs\obj\Debug\netcoreapp3.1\Task08_Beer_Kegs.dll
+C:\Users\Kiril\source\repos\02_Exercise\Task08_Beer_Kegs\obj\Debug\netcoreapp3.1\Task08_Beer_Kegs.pdb
+C:\Users\Kiril\source\repos\02_Exercise\Task08_Beer_Kegs\obj\Debug\netcoreapp3.1\Task08_Beer_Kegs.genruntimeconfig.cache
