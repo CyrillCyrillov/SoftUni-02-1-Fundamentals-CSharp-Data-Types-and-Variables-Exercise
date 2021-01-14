@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\02_Exercise\02_Exercise\bin\Debug\netcoreapp3.1\Task01_Integer_Operations.exe
+C:\Users\Kiril\source\repos\02_Exercise\02_Exercise\bin\Debug\netcoreapp3.1\Task01_Integer_Operations.deps.json
+C:\Users\Kiril\source\repos\02_Exercise\02_Exercise\bin\Debug\netcoreapp3.1\Task01_Integer_Operations.runtimeconfig.json
+C:\Users\Kiril\source\repos\02_Exercise\02_Exercise\bin\Debug\netcoreapp3.1\Task01_Integer_Operations.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\02_Exercise\02_Exercise\bin\Debug\netcoreapp3.1\Task01_Integer_Operations.dll
+C:\Users\Kiril\source\repos\02_Exercise\02_Exercise\bin\Debug\netcoreapp3.1\Task01_Integer_Operations.pdb
+C:\Users\Kiril\source\repos\02_Exercise\02_Exercise\obj\Debug\netcoreapp3.1\Task01_Integer_Operations.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\02_Exercise\02_Exercise\obj\Debug\netcoreapp3.1\Task01_Integer_Operations.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\02_Exercise\02_Exercise\obj\Debug\netcoreapp3.1\Task01_Integer_Operations.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\02_Exercise\02_Exercise\obj\Debug\netcoreapp3.1\Task01_Integer_Operations.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\02_Exercise\02_Exercise\obj\Debug\netcoreapp3.1\Task01_Integer_Operations.dll
+C:\Users\Kiril\source\repos\02_Exercise\02_Exercise\obj\Debug\netcoreapp3.1\Task01_Integer_Operations.pdb
+C:\Users\Kiril\source\repos\02_Exercise\02_Exercise\obj\Debug\netcoreapp3.1\Task01_Integer_Operations.genruntimeconfig.cache
